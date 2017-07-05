@@ -9,3 +9,5 @@
 [assignment week 8](https://github.com/Dimitri98/assigments/blob/master/assignment%205%20programming%20week%208%20Readme.ipynb)
 
 [final python assignment](https://github.com/Dimitri98/assigments/blob/master/Final_Assignment_Python%20af.ipynb)
+
+[final R assignment](https://github.com/Dimitri98/assigments/blob/master/resit%20exam%20exercise%20bijna%20af.ipynb)
